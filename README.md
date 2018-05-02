@@ -30,7 +30,4 @@ class AppPerCon(object):
   
   这个类用于配置测试过程的一些参数
   
-  report 使用pyecharts生成效果如下
-  
-  
-  
+  连接上手机直接运行testcase下的MonkeyTest.py 即可
